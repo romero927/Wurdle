@@ -13,7 +13,7 @@ def instructions():
     print("Instructions:")
     print("The player must guess the 5-letter word in 6 attempts or less.")
     print("""\u2611 : The letter at that position was guessed correctly.""")
-    print("""\u2610 :  The letter at that position is in the hidden word, but in a different position.""")
+    print("""\u2610 : The letter at that position is in the hidden word, but in a different position.""")
     print("""\u2612 : The letter at that position is wrong, and isn't in the hidden word.""")
     print("----------------------------------")
 
